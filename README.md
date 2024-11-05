@@ -55,6 +55,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 Developed by [DevRaviX](https://github.com/DevRaviX).
 ```
 
-### Optional Additions
-1. **Screenshots**: You can add screenshots by saving images in the repository and referencing them in the README.
-2. **License File**: Add a `LICENSE` file if you want to specify usage rights explicitly (MIT License is a common choice).
+
