@@ -53,6 +53,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Author
 Developed by [DevRaviX](https://github.com/DevRaviX).
-```
+
 
 
